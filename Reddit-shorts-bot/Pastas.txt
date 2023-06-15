@@ -1,0 +1,6 @@
+background_videos: Vídeos que ficarão de fundo durante o vídeo (baixar manualmente)
+edited_videos: Vídeos já editados com: Audio, Background e post 
+reddit_posts: Onde serão salvos os arquivos contendo os posts do reddit_posts
+src: Pasta contendo os códigos em python
+temp: Pasta que irá conter os áudios e os background_videos cortados para fazer a edição, apagar os arquivos
+dentro imediatamento após o uso

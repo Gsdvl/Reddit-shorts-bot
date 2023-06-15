@@ -4,3 +4,5 @@ reddit_posts: Onde serão salvos os arquivos contendo os posts do reddit_posts
 src: Pasta contendo os códigos em python
 temp: Pasta que irá conter os áudios e os background_videos cortados para fazer a edição, apagar os arquivos
 dentro imediatamento após o uso
+
+ADICIONEI ARQUIVOS VAZIOS PORQUE SENÃO AS PASTAS NÃO APARECEM NO GITHUB
